@@ -1,6 +1,5 @@
 # Laboratory Exercise 1: Git, GitHub, and Branching
-
-**Course:** DCIT50 - Object Oriented Programming  
+  
 **Student Name:** Rodrin  
 **Repository:** [Lab1_Rodrin](https://github.com/jakerodrin/Lab1_Rodrin)
 
